@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "yarn sucrase-node node.js"
+  },
+  "dependencies": {
+    "python-shell": "^1.0.8",
+    "sucrase": "^3.12.1"
+  }
+}
