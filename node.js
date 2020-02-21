@@ -5,7 +5,7 @@ var options = {
   encoding: "utf8",
   pythonOptions: ["-u"],
   scriptPath: "./",
-  args: ["Camilla", "Martins"]
+  args: [""]
 };
 
 var test = new PythonShell("speechRecognize.py", options);
